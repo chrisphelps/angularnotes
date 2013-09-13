@@ -4,4 +4,7 @@ AngularJS meetup - D3 and Angular
 11 Sep
 Install yeoman and experiment with angular generator
 
+12 Sep
+Worked with existing AngularKendo
+thinking about the need to rebuild it all in a yeoman generated version
 
