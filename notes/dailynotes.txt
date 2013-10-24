@@ -8,3 +8,6 @@ Install yeoman and experiment with angular generator
 Worked with existing AngularKendo
 thinking about the need to rebuild it all in a yeoman generated version
 
+23 Oct
+AngularJS meetup - Angular overview redux
+Think about possibilities to do something cool/funky with Angular comment directives (perhaps use like annotations?)
